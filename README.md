@@ -21,8 +21,8 @@ It provides accurate **price predictions**, **property recommendations**, **mark
 - **Streamlit** (for the interactive UI)
 - **Scikit-learn**
 - **Pandas / NumPy**
-- **Matplotlib / Seaborn**
-- **Pickle** (for model saving)
+- **Matplotlib / Seaborn / Plotly**
+- **Pickle / Joblib** (for model saving)
 - **Google Drive** (for hosting large `.pkl` model files)
 
 ---
@@ -70,4 +70,5 @@ streamlit run Home.py
 Created by: Latchan Chhetri
 
 AI & Data Science Enthusiast | Building Intelligent Systems for Real-World Insights
+
 
