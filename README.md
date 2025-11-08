@@ -12,6 +12,7 @@ It provides accurate **price predictions**, **property recommendations**, **mark
 - 🏢 **Property Recommendations** – Get personalized property suggestions based on your preferences.  
 - ⚖️ **Comparative Analytics** – Compare multiple properties side by side.  
 - 📌 **Insights & Charts** – Discover key metrics like price distribution and top-performing localities.
+- & Much More 
 
 ---
 
@@ -70,5 +71,6 @@ streamlit run Home.py
 Created by: Latchan Chhetri
 
 AI & Data Science Enthusiast | Building Intelligent Systems for Real-World Insights
+
 
 
