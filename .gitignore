@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit cache and config
+.streamlit/
+*.tff
+*.ttf
+.streamlit/config.toml
+
+# Node modules (if using React frontend)
+node_modules/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test and log files
+*.log
+*.out
+*.bak
+*.tmp
+
+# SQLite or other databases
+*.db
+*.sqlite3
+
+# Machine Learning artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.sav
+*.npz
+*.npy
+*.csv
+!datasets/data_viz1.csv   # keep only this small CSV (if needed for visuals)
+
+#  Temporary exports or backups
+backup/
+temp/
