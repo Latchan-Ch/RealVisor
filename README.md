@@ -49,8 +49,8 @@ RealVisor/
 
 The trained ML model (`pipeline_compressed.pkl`) is large, so it’s hosted externally.
 
-👉 **Download it here:** [Google Drive Link](https://drive.google.com)  
-(Replace with your actual Drive link)
+👉 **Download it here:**
+https://drive.google.com/file/d/15Q3eb4q0NmR5YzBbVShSRFvHvMkdAs9p/view?usp=sharing
 
 After downloading, place it in the main `RealVisor` folder before running the app.
 
@@ -70,3 +70,4 @@ streamlit run Home.py
 Created by: Latchan Chhetri
 
 AI & Data Science Enthusiast | Building Intelligent Systems for Real-World Insights
+
