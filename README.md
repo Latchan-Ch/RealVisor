@@ -70,7 +70,5 @@ streamlit run Home.py
 
 Created by: Latchan Chhetri
 
-AI & Data Science Enthusiast | Building Intelligent Systems for Real-World Insights
-
 
 
